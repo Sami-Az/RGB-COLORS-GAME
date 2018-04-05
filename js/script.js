@@ -70,7 +70,7 @@ function reset(){
     }
 
   }
-  h1.style.backgroundColor = "gold";
+  h1.style.backgroundColor= "#f8c291";
 }
 
 
